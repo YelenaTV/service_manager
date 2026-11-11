@@ -1,0 +1,2 @@
+# Модуль 3: зовнішні бібліотеки не потрібні — json, csv, datetime, functools
+# входять у стандартну бібліотеку Python. Наступні модулі додадуть сюди pytest, requests, django.
